@@ -66,7 +66,7 @@ npm run dev
 - **Vercel** - Frontend & backend hosting
 
 ## **Demo Video**
-📹 Watch a complete walkthrough of CRMables features: [Demo Video Link](https://your-loom-video-link.com)
+📹 Watch a complete walkthrough of CRMables features: [Demo Video Link](https://youtu.be/1rSe-7t55FI)
 
 ## **Features**
 
